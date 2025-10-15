@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Bharadwaj UM!
+ 
+🚀 Passionate about AWS, Spring Boot, React, and System Design  
 
-<!--
-**bharadwajdaya/bharadwajdaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I’m working on
+- Building full-stack apps with AWS (Cognito + Lambda + DynamoDB)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, Python, TypeScript  
+- **Frontend:** React, PrimeReact, Tailwind  
+- **Backend:** Spring Boot, AWS Lambda  
+- **Cloud:** AWS (Cognito, S3, DynamoDB, API Gateway)  
+- **Tools:** Docker, GitHub Actions, Terraform  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
