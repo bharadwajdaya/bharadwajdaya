@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bharadwaj UM!
  
-🚀 Passionate about AWS, Spring Boot, React, and System Design  
+🚀 Passionate about AWS, Spring Boot, React,Angular and System Design  
 
 ## 🧠 What I’m working on
 - Building full-stack apps with AWS (Cognito + Lambda + DynamoDB)
